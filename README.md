@@ -1,6 +1,6 @@
 # Solendir – Unified Company AI Assistant
 
-![Solendir Screenshot](assets/Solendir.png)
+![Solendir Screenshot](Asset/Solendir.png)
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Made with Next.js](https://img.shields.io/badge/Next.js-2025-blue?logo=next.js)](https://nextjs.org/)
