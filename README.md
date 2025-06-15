@@ -29,7 +29,7 @@
 
 ## 📸 Screenshot
 
-![Solendir Screenshot](assets/Solendir.png)
+![Solendir Screenshot](Asset/Solendir.png)
 
 ## ⚡ Getting Started
 
@@ -62,7 +62,6 @@
 
 ## 🌐 Links
 
-- [Live Demo](#) <!-- Add your live link here -->
 - [View on GitHub](https://github.com/Kushsharma1/Solendir)
 
 ## 📄 License
